@@ -1,0 +1,19 @@
+{
+  "name": "apnidukaan",
+  "version": "1.0.0",
+  "description": "This is an Ecommerce website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarungujral156/ApniDukaan.git"
+  },
+  "author": "Tarun gujral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarungujral156/ApniDukaan/issues"
+  },
+  "homepage": "https://github.com/tarungujral156/ApniDukaan#readme"
+}
