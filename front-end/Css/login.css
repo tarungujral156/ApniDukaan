@@ -40,12 +40,13 @@ h1{
 }
 
 .registration-form{
-    background-color: rgba(255,255,255,.5); 
+    background-color: rgba(0, 0, 0, 0.5); 
     position:absolute;
+    color:white;
     left:65%;
     top: 120px;
     width: 400px;
-    height: 500px;
+    height: 400px;
     padding: 35px;
     border-radius:10px;
 }
@@ -54,7 +55,8 @@ h1{
 label, input {
     display: block;
     width:100%;
-<<<<<<< HEAD
+    height:2rem;
+    margin:7px 0px;
 }
 
 input{
@@ -64,26 +66,14 @@ input{
 }
 
 button.btn{
-    background-color: black;
+    background-color: blue;
     color: white;
     width:100%;
-    margin-top: 10px;
-    border-radius:10px;
-}
-=======
-}
-
-input{
-    color: black;
-    border:none;
+    margin: 20px 0px;
     border-radius:10px;
 }
 
-button.btn{
-    background-color: black;
-    color: white;
-    width:100%;
-    margin-top: 10px;
-    border-radius:10px;
+i{
+    float:right;
+    margin:0px 5px;
 }
->>>>>>> 222862ca3eba52a2a13110edeb9408a9615556ca
