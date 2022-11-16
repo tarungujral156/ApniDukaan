@@ -1,0 +1,26 @@
+# POST http://localhost:4000/app/signup
+# Content-Type: application/json
+
+# {
+#     "Name":"shubham",
+#     "Phone":"9020398409",
+#     "Email":"example@gmail",
+#     "Password":"898938"
+# }
+
+POST http://localhost:4000/app/products
+Content-Type: application/json
+
+{
+    "item":"samsung galaxy A30s",
+    "description":"this is best product",
+    "image":"https://2b.com.eg/pub/media/catalog/product/t/o/toyssedit_17_.jpg",
+    "price":18000,
+    "rating":9.8,
+    "review":"The best phone in the world",
+    "category":"Mobiles",
+    "brand":"Samsung"
+    
+}
+
+# GET http://localhost:4000/app/products
