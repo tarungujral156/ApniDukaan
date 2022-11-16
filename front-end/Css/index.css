@@ -54,7 +54,6 @@ h1{
 label, input {
     display: block;
     width:100%;
-<<<<<<< HEAD
 }
 
 input{
@@ -70,20 +69,3 @@ button.btn{
     margin-top: 10px;
     border-radius:10px;
 }
-=======
-}
-
-input{
-    color: black;
-    border:none;
-    border-radius:10px;
-}
-
-button.btn{
-    background-color: black;
-    color: white;
-    width:100%;
-    margin-top: 10px;
-    border-radius:10px;
-}
->>>>>>> 222862ca3eba52a2a13110edeb9408a9615556ca
